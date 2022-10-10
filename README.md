@@ -1,2 +1,1 @@
-# voila-webs
-Interactive Jupyter Notebooks by Voila
+# Interactive Jupyter Notebooks by Voila
